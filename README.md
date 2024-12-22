@@ -21,8 +21,6 @@
 
 Build a full-stack Real Estate application with React Native, featuring Google authentication, dynamic property listings, and user profiles. Designed with modern tools like Expo SDK 52, Appwrite, Tailwind CSS, and TypeScript for a seamless and scalable experience.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
 ## <a name="tech-stack">Tech Stack</a>
 
 - Expo
@@ -32,7 +30,7 @@ Build a full-stack Real Estate application with React Native, featuring Google a
 - Appwrite
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features">Features</a>
 
 - **Authentication with Google**: Secure and seamless user sign-ins using Google’s authentication service.
 
@@ -61,8 +59,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/react_native-restate.git
-cd react_native-restate
+git clone https://github.com/vikas-500apps/real_state.git
+cd real_state
 ```
 
 **Installation** 
